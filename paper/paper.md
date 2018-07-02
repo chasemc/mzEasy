@@ -13,7 +13,7 @@ authors:
 affiliations:
  - name: University of Illinois at Chicago
    index: 1
-date: 24 June 2018
+date: 02 July 2018
 bibliography: paper.bib
 ---
 
@@ -36,8 +36,8 @@ mzEasy is auto-configured to convert vendor files to mzXML with settings require
 
 **Availability:**
 
- - Download from: [chasemc.github.io/mzEASY](https://chasemc.github.io/mzEASY/)
- - Source code available at: [github.com/chasemc/mzEASY](https://github.com/chasemc/mzEASY) 
+ - Download from: [chasemc.github.io/mzEasy](https://chasemc.github.io/mzEasy/)
+ - Source code available at: [github.com/chasemc/mzEasy](https://github.com/chasemc/mzEasy) 
 
 **Software Requirements:**
 
