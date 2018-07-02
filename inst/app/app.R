@@ -9,13 +9,12 @@ library(mzEasy)
 #-----
 # Get paths
 appwd <- getwd()   # Get the path of the app
-applibpath <- file.path(dirname(dirname(appwd)), "inst/app/library/packageLibrary") # Get the path for the "packageLibrary" folder
+applibpath <- file.path(dirname(dirname(appwd)), "packageLibrary") # Get the path for the "packageLibrary" folder
 
 #-----
 # Change library path to the "packageLibrary" folder
-.libPaths(c("C:/Users/CMC/R/win-library/3.5"))
-#applibpath
-print(.libPaths())
+.libPaths(applibpath)
+
 #-----
 # Find location of msconvert.exe
 progFiles <- shell(cmd= "ECHO %ProgramFiles%\\ProteoWizard", translate=TRUE, intern=T)
