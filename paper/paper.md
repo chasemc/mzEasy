@@ -45,7 +45,7 @@ mzEasy is auto-configured to convert vendor files to mzXML with settings require
  - ProteoWizard ([proteowizard.sourceforge.net](http://proteowizard.sourceforge.net))
 
 
-mEasy was written in R [@baseR2018] and utilizes Shiny [@shiny2018], RInno [@RInno2018], mzR [@Chambers2012], and ggplot2 [@gg2009].
+mzEasy was written in R [@baseR2018] and utilizes Shiny [@shiny2018], RInno [@RInno2018], mzR [@Chambers2012], and ggplot2 [@gg2009].
 
 # References
 
