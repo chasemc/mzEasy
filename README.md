@@ -61,7 +61,7 @@ Copy the installation location and paste it somewhere in case mzEasy cannot find
 | ---------------------------- | ---------------------------- |
 | Go to the mzEasy folder and inside you will see a file "Specify_ProteoWizard_Location.txt".  | <img src= "www/tutorial/pwiz/10.PNG"  width=500 /> |
 | Open the file   | <img src= "www/tutorial/pwiz/4.PNG"  width=500 /> |
-| Copy the location ProteWizard was installed to (left side of image). Paste this into "Specify_ProteoWizard_Location.txt" document (right side of image). Save "Specify_ProteoWizard_Location.txt" and close it.| <img src= "www/tutorial/pwiz/12.png"  width=500 /> |
+| Copy the location ProteWizard was installed to (left side of image). Paste this into "Specify_ProteoWizard_Location.txt" document (right side of image). Save "Specify_ProteoWizard_Location.txt" and close it.| <img src= "www/tutorial/pwiz/12.PNG"  width=500 /> |
 
 Try running mzEasy again. If the problem presists, you can file an issue here: [github.com/chasemc/mzEASY/issues] (https://github.com/chasemc/mzEASY/issues)
 
