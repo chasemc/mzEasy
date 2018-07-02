@@ -1,4 +1,4 @@
-# mzEASY 
+# mzEasy 
 
 mzEasy was created with the intention of making the process of converting raw LC-MS/MS data for GNPS a little easier. It also creates QC plots for mzXML LC-MS/MS files with the option of downloading the plots as a pre-assembled image for presentation or publication (multiple image types supported).
 
