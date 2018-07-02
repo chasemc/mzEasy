@@ -1,0 +1,13 @@
+Package: mzEasy
+Type: Package
+Title: A simple interface to MSConvert and overview plotting of LC-MS/MS data.
+Version: 0.1.0
+Maintainer: Chase Clark <chasec288@gmail.com>
+Description: mzEasy
+Authors@R: c(
+    person("Chase", "Clark", , "chasec288@gmail.com", c("aut", "cre")))
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.0.1
