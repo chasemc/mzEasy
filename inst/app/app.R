@@ -5,6 +5,8 @@ library(mzR)
 library(ggplot2)
 library(gridExtra)
 library(mzEasy)
+library(labeling)
+library(crayon)
 
 #-----
 # Get paths
