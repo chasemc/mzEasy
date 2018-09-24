@@ -62,7 +62,7 @@ It is also designed for users that want access to parallelized MSConvert and/or 
 mzEasy was written in R [@baseR2018] and utilizes Shiny [@shiny2018], RInno [@RInno2018], mzR [@Chambers2012], and ggplot2 [@gg2009].
 
 
-![A screenschot of the mzEasy user interface](Capture.png)
+![A screenschot of the mzEasy user interface](Capture.PNG)
 
 
 ![Example of an exported, auto-assembled figure](Output.png)
